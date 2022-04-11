@@ -1,2 +1,2 @@
 # ModelowanieDyskretne
-Semestr 3 - MD
+Semestr 5 - MD
